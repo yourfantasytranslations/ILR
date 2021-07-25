@@ -1,11 +1,11 @@
 # ----------- CONFIGURABLE START -----------
-title:            "Eroge Reincarnation, Struggle of a Golden pig aristocrat against fate"
+title:            "A Story of a Knight In A Ruined Fantasy World"
 description:      ""
-baseurl:     "ER"
+baseurl:     "ASOFK"
 url:              "" # Site url, without a slash at the end.
 signoff:          "lord-asgord" 
 facebook_appid:   # APP ID for like button, remove from /_includes/share.html if unwanted.
-google_analytics: G-V0LWNBRRLV
+google_analytics: G-KZX7FC3LDV
 share:            false # Turn on twitter and facebook share buttons
 
 links:
