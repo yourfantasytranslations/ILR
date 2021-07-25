@@ -1,11 +1,11 @@
 # ----------- CONFIGURABLE START -----------
-title:            "A Story of a Knight In A Ruined Fantasy World"
+title:            "Land Reformation in another world: Public Work Starts with Earth Magic"
 description:      ""
-baseurl:     "ASOFK"
+baseurl:     "ILR"
 url:              "" # Site url, without a slash at the end.
 signoff:          "lord-asgord" 
 facebook_appid:   # APP ID for like button, remove from /_includes/share.html if unwanted.
-google_analytics: G-KZX7FC3LDV
+google_analytics: G-PTNSVMD0YN
 share:            false # Turn on twitter and facebook share buttons
 
 links:

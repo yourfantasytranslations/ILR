@@ -2,4 +2,8 @@
 title: About
 ---
 
-A land polluted with poison, filled with cannibals and monsters. A world where society can only continue to exist inside "safe zones". This is the story of Arsene, a knight who goes on an adventure in search of dreams and hope in this barren land.
+Michio Tsuchida, a 35-year-old single man. One winter, while returning from the office, he got stabbed by a kitchen knife in the process of saving a girl.
+
+The pain of stabbing spread throughout his body, making him lose his senses. The next time he opened his eyes, he found himself as the fourth son of a viscount in another world.
+The story is about a reincarnated boy who enjoys his new life while using his past knowledge to reform his territory.
+
